@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//prints 3 lines: (like 1-multi_languages.js)
+// Basic print with Javascript
 
 const array = ['C is fun',
   'Python is cool',

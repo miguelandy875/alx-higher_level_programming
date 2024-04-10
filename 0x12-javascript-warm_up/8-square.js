@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//  prints a square
+// Basic print with Javascript
 
 const size = process.argv[2];
 

@@ -1,5 +1,6 @@
 #!/usr/bin/node
-// display the string in "" to the screen
+// Basic print with Javascript
 
 const myVar = 'Javascript is amazing';
+
 console.log(myVar);

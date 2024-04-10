@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//display the string in "" to the screen
+// Basic print with Javascript
 
 console.log('C is fun');
 console.log('Python is cool');

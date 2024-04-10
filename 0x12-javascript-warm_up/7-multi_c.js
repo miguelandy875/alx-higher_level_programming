@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//  prints x times “C is fun
+// Basic print with Javascript
 
 const fun = 'C is fun';
 

@@ -1,5 +1,6 @@
 #!/usr/bin/node
-// that prints the addition of 2 integers
+// Basic addition with Javascript
+
 const a = parseInt(process.argv[2]);
 const b = parseInt(process.argv[3]);
 

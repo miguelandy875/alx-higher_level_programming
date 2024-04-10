@@ -1,5 +1,5 @@
 #!/usr/bin/node
-// factorial with Javascript
+// Compute factorial with Javascript
 
 const x = parseInt(process.argv[2]);
 

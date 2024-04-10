@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//  prints the first argument passed to it:
+// Handle arguments with Javascript
 
 const arg = process.argv[2];
 
